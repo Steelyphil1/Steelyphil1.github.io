@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Phillip Bay's Portfolio</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="phillipbayabout.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla">
+        <link rel="icon" href="Logo.png">
+        <script src="phillipbaymain.js"></script>
+    </head>
+    <body>
+        <header>
+            <ul class="nav">
+                <li id="name">Phillip Bay</li>
+                <li id="ab">About</li>
+                <li id="pr"><a href="phillipbaymain.html">Projects</a></li>        
+            </ul>
+        </header>
+        <br>
+        <br>
+        
+        <midsection>
+            <div class="blurb">
+                <p>I am a 30 year old Software Engineer living in San Francisco California. For the past 10 years I have moved all over the city soaking in as much culture as I can. When I'm not working or coding, my passion in life is rock climbing. Specifically outdoor rock climbing in my favorite place on earth -- Yosemite Valley.</p>
+                <p>Yosemite has always been the pinnacle of rock climbing for me, the center of the universe if you will. I've always felt that if I could just prove myself there, I could be accepted anywhere. Subsequently I climbed the face of have dome 8 months after learning to climb outdoors, and climbed El Capitan twice in 2018 -- just two years after learning. I'm constantly trying to improve and find time to get outside and enjoy nature!</p>
+            </div>
+            <div class="info">
+                <h1>Location</h1>
+                <p>San Francisco, California</p>
+                <h1>Education</h1>
+                <ul>
+                    <li>City College of San Francisco</li>
+                    <li>Salesforce and Deloitte Pathfinder Graduate</li>
+                    <li>Saleseforce Platform Developer 1 Certified</li>
+                    <li>School of Hard Knox</li>
+                </ul>
+                <h1>Contact</h1>
+                <p>Phillip.Bay@gmail.com</p>
+            </div>
+        </midsection>
+        
+        <middle>
+            <div class="midclimb">
+                <table>
+                    <tr>
+                        <td id="ClimbingLog" colspan="3">Climbing Log</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.mountainproject.com/route/105924807/the-nose" target="_blank" rel="noopener noreferrer"><img border="0" alt="NIAD" src="NIAD.jpg"></a>
+                            <br>
+                            <p class="picinfo">The Nose of El Capitan In A Day with Erik Griffith. Climbed on 05/30/2018 and took approximately 19 hours. Led 10, 11, 12, 13, 14, 15, 16(LHT), 17, 24, 25, 26, 27/28. Followed 1, 2, 3, 4, 5, 6, 7, 8, 9, 18, 19, 20, 21, 22, 23.
+                            </p>
+                            <hr>
+                            <div class="tablefoot">
+                                <i>Yosemite Valley - El Capitan</i>
+                            </div>
+                        </td>
+                        <td>
+                            <a href="https://www.mountainproject.com/route/106154042/salathe-wall" target="_blank" rel="noopener noreferrer"><img border="0" alt="Salathe" src="Salathe.jpg"></a>
+                            <br>
+                            <p class="picinfo">The Salathe Wall of El Capitan with James Gustafson. Climbed on 04/24/2018. Led 7, 8, -/10, 11, 12, 13, 14, 18, 19, 20, 26, 27/28, 29, 30, 35. Followed 1-6, 15, 16, 17, 21/22, 23, 24/25, 31, 32, 33/34.
+                            </p>
+                            <hr>
+                            <div class="tablefoot">
+                                <i>Yosemite Valley - El Capitan</i>
+                            </div>
+                        </td>
+                        <td>
+                            <a href="https://www.mountainproject.com/route/105912192/lost-arrow-tip" target="_blank" rel="noopener noreferrer"><img border="0" alt="LostArrow" src="LostArrow.jpg"></a>
+                            <p class="picinfo">Lost Arrow Chimney to Lost Arrow Spire with the Tyrolean Traverse with James Gustafson. Climbed on 08/01/2019. Led every pitch of LAT and for LAC Led 3/4, 9, 10. Followed 1/2, 5/6, 7/8.
+                            </p>
+                            <hr>
+                            <div class="tablefoot">
+                                <i>Yosemite Valley - Lost Arrow Spire</i>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="https://www.mountainproject.com/route/105862896/northeast-buttress" target="_blank" rel="noopener noreferrer"><img border="0" alt="NEB" src="NEB.jpg"></a>
+                            <p class="picinfo">The Northeast Buttress of Higher Cathedral Rock with Nick Buffini. Climbed on 08/13/2019. Led 1, 3, 4, 5, 6, 7. Followed 2. This is prpbably my favorite moderate multi-pitch in the valley. A bit of a sandbag, and a long apporach, but definitely worth it!
+                            </p>
+                            <hr>
+                            <div class="tablefoot">
+                                <i>Yosemite Valley - Higher Cathedral Rock</i>
+                            </div>
+                        </td>
+                        <td>
+                            <a href="https://www.mountainproject.com/route/105845493/astroman" target="_blank" rel="noopener noreferrer"><img border="0" alt="Astroman" src="Astroman.jpg"></a>
+                            <p class="picinfo">Astroman on Washington Column. Climbed with Kevin Heinrich. CLIMBED ON 10/12/2018. Solo'd pitch 1. Led 2, 5/6, 7, 9/10.5. Followed 3, 4, 8, 10.5/11, 12. I would recommed a rack of singles of .1-#4 and doubles of .3 and .4 and triples of .2. .5-3 nuts.
+                            </p>
+                            <hr>
+                            <div class="tablefoot">
+                                <i>Yosemite Valley - Washington Column</i>
+                            </div>
+                        </td>
+                        <td>    
+                            <a href="https://www.mountainproject.com/route/105944489/dark-star" target="_blank" rel="noopener noreferrer"><img border="0" alt="Dark" src="Dark.jpg"></a>
+                            <p class="picinfo">Darkstar at Temple Crag with Nick Buffini. Climbed on 08/22/2020. This was a nightmare of a climb, with loose rock and horrendous placements. Never have I thought I was going to meet my maker more than on this climb. Dropped my helmet on pitch 4 of 16.
+                            </p>
+                            <hr>
+                            <div class="tablefoot">
+                                <i>Temple Crag - Dark Star</i>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </middle>
+        <footer>
+            <div class="footertable">
+                <a href="https://www.linkedin.com/in/phillip-bay-44b10579/" class="fa fa-linkedin fa-2x"></a>
+                <a href="https://github.com/Steelyphil1?tab=repositories" class="fa fa-github fa-2x"></a>
+                <a href="https://twitter.com/phillipbay?lang=en" class="fa fa-twitter fa-2x"></a>
+            </div>
+        </footer>
+        <marquee behavior="scroll" direction="right" scrollamount="10">
+            PHILLIP.BAY@GMAIL.COM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(303) 981-8347&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP BAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP.BAY@GMAIL.COM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(303) 981-8347&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP BAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP.BAY@GMAIL.COM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(303) 981-8347&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP BAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP.BAY@GMAIL.COM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(303) 981-8347&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP BAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP.BAY@GMAIL.COM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(303) 981-8347&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP BAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP.BAY@GMAIL.COM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(303) 981-8347&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHILLIP BAY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</marquee>
+    </body>
+</html>
