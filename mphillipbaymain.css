@@ -91,7 +91,7 @@ midsection p {
 middle {
     padding-left: 10%;
     padding-right: 10%;
-    width: 50%;
+    width: 55%;
     display: block;
     
     margin-left: auto;
@@ -134,6 +134,7 @@ img {
 }
 .logo-link {
     vertical-align: top;
+    padding-bottom: 15%;
 }
 .tablefoot {
     vertical-align: bottom;
