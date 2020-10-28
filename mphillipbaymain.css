@@ -80,7 +80,7 @@ midsection p {
     font-size: 1.2vw;
 }
 #blurb {
-    width: 58%;
+    width: 100%;
     text-height: 3em;
 }
 
@@ -93,6 +93,9 @@ middle {
     padding-right: 10%;
     width: 30%;
     display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
 }
 table {
     text-align: left;
@@ -100,6 +103,7 @@ table {
     min-width: 100%;
     border-spacing: 18px;
     border-collapse: separate;
+    
 }
 
 td {
